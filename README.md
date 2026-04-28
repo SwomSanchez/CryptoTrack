@@ -1,3 +1,6 @@
+<img width="1903" height="1063" alt="Ekran görüntüsü 2026-04-28 191727" src="https://github.com/user-attachments/assets/955ef394-9342-4546-9c4b-a35a2870583a" />
+<img width="1892" height="1055" alt="Ekran görüntüsü 2026-04-28 191704" src="https://github.com/user-attachments/assets/823469f2-058c-489b-8401-02edcf83e13c" />
+<img width="1884" height="1069" alt="Ekran görüntüsü 2026-04-28 191644" src="https://github.com/user-attachments/assets/9ca50545-298b-4663-9d03-f316fd1e79bc" />
 # 🚀 CryptoTrack
 
 ![CryptoTrack Banner](https://via.placeholder.com/1000x400/050505/00f2fe?text=CryptoTrack+-+Modern+Crypto+Portfolio+Dashboard)
@@ -60,9 +63,9 @@ Public APIs like CoinGecko heavily restrict request volumes. CryptoTrack solves 
 
 | Splash Screen & UI | Portfolio Dashboard | Search & Autocomplete |
 |:---:|:---:|:---:|
-| ![Splash](https://via.placeholder.com/300x500/111/fff?text=Splash+Screen) | ![Portfolio](https://via.placeholder.com/300x500/111/fff?text=Portfolio+Analytics) | ![Search](https://via.placeholder.com/300x500/111/fff?text=Search+Dropdown) |
+| ![Portfolio](https://via.placeholder.com/300x500/111/fff?text=Portfolio+Analytics) | ![Search](https://github.com/user-attachments/assets/955ef394-9342-4546-9c4b-a35a2870583a) |
 | **Compare Tool** | **Trending Market** | **Favorites List** |
-| ![Compare](https://via.placeholder.com/300x500/111/fff?text=Compare+Tool) | ![Trending](https://via.placeholder.com/300x500/111/fff?text=Trending+Market) | ![Favorites](https://via.placeholder.com/300x500/111/fff?text=Favorites) |
+| ![Compare](https://via.placeholder.com/300x500/111/fff?text=Compare+Tool) | ![Trending](https://github.com/user-attachments/assets/823469f2-058c-489b-8401-02edcf83e13c) | ![Favorites](https://via.placeholder.com/300x500/111/fff?text=Favorites) |
 
 ---
 
