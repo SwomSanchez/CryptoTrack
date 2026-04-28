@@ -1,9 +1,4 @@
-<img width="1903" height="1063" alt="Ekran görüntüsü 2026-04-28 191727" src="https://github.com/user-attachments/assets/955ef394-9342-4546-9c4b-a35a2870583a" />
-<img width="1892" height="1055" alt="Ekran görüntüsü 2026-04-28 191704" src="https://github.com/user-attachments/assets/823469f2-058c-489b-8401-02edcf83e13c" />
-<img width="1884" height="1069" alt="Ekran görüntüsü 2026-04-28 191644" src="https://github.com/user-attachments/assets/9ca50545-298b-4663-9d03-f316fd1e79bc" />
 # 🚀 CryptoTrack
-
-![CryptoTrack Banner](https://via.placeholder.com/1000x400/050505/00f2fe?text=CryptoTrack+-+Modern+Crypto+Portfolio+Dashboard)
 
 **CryptoTrack** is a premium, modern, and highly responsive Cryptocurrency Tracking Dashboard built entirely with Vanilla HTML, CSS, and JavaScript. It leverages the CoinGecko API to provide real-time market data, historical analytics, dynamic charts, and a robust personal portfolio manager.
 
@@ -61,11 +56,11 @@ Public APIs like CoinGecko heavily restrict request volumes. CryptoTrack solves 
 
 *(Add your screenshots here)*
 
-| Splash Screen & UI | Portfolio Dashboard | Search & Autocomplete |
-|:---:|:---:|:---:|
-| ![Portfolio](https://via.placeholder.com/300x500/111/fff?text=Portfolio+Analytics) | ![Search](https://github.com/user-attachments/assets/955ef394-9342-4546-9c4b-a35a2870583a) |
-| **Compare Tool** | **Trending Market** | **Favorites List** |
-| ![Compare](https://via.placeholder.com/300x500/111/fff?text=Compare+Tool) | ![Trending](https://github.com/user-attachments/assets/823469f2-058c-489b-8401-02edcf83e13c) | ![Favorites](https://via.placeholder.com/300x500/111/fff?text=Favorites) |
+| Trending | Search |
+|:---:|:---:|
+| ![Trending](https://github.com/user-attachments/assets/823469f2-058c-489b-8401-02edcf83e13c) | ![Search](https://github.com/user-attachments/assets/8be690d5-a07f-46a0-97e6-762b57f0360b) |
+| **Compare Tool** | **Favorites List** |
+| ![Compare](https://github.com/user-attachments/assets/955ef394-9342-4546-9c4b-a35a2870583a) | ![Favorites](https://github.com/user-attachments/assets/f6a835cb-ebbe-4a46-bede-5ec3d0e4f716) |
 
 ---
 
