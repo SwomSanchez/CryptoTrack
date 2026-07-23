@@ -35,7 +35,7 @@ No complex build tools or `npm install` required! It's a completely static Vanil
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/CryptoTrack.git
+   git clone https://github.com/SwomSanchez/CryptoTrack.git
    ```
 2. **Open the project:**
    Simply double-click the `index.html` file to open it in any modern web browser (Chrome, Firefox, Safari, Edge).
